@@ -1,1 +1,55 @@
 
+@media (min-width: 1200px) {
+	.container-big{
+		max-width: 1280px;
+	}
+}
+
+#influence {
+	background-image: url("https://bnetcmsus-a.akamaihd.net/cms/template_resource/RLMC87YA66JR1552926015954.jpg");
+	background-position: center;
+	background-size:cover;
+}
+
+
+#influence h2{
+	color: #ebdec2;
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+	font-size:17px;
+	font-weight:400;
+	text-transform: uppercase;
+	padding-top:80px;
+	text-align:right;
+}
+
+
+
+
+#influence h1{
+	color: white;
+	text-align: right;
+	font-weight:700;
+	font-size:48px;
+	margin-bottom:20px;
+	font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+}	
+	
+
+#influence p{
+	color: rgb(235, 222, 194);
+	font-size:19px;
+	text-align:right;
+	margin-bottom:30px;
+}	
+
+#influence a{
+	display: inline-block;
+	padding:12px 30px;
+	border: 1px solid #c77e19;
+	color:#ffd36b;
+	text-transform: uppercase;
+	text-decoration: none;	
+	margin-bottom:70px;
+
+}
+
