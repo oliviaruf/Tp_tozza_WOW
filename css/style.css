@@ -6,7 +6,7 @@
 }
 
 #influence {
-	background-image: url("https://bnetcmsus-a.akamaihd.net/cms/template_resource/RLMC87YA66JR1552926015954.jpg");
+	background-image: url(img/WOW.jpg);
 	background-position: center;
 	background-size:cover;
 }
@@ -14,42 +14,44 @@
 
 #influence h2{
 	color: #ebdec2;
-	font-family: Open Sans,Arial,Helvetica,sans-serif;
-	font-size:17px;
+	font-size:14,688px;
 	font-weight:400;
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+	line-height: 1.5;
 	text-transform: uppercase;
-	padding-top:80px;
-	text-align:right;
+	text-align: right;
+	
 }
-
-
-
+	
 
 #influence h1{
 	color: white;
-	text-align: right;
+	font-size:43.86px;
 	font-weight:700;
-	font-size:48px;
-	margin-bottom:20px;
 	font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
-}	
-	
-
-#influence p{
-	color: rgb(235, 222, 194);
-	font-size:19px;
-	text-align:right;
-	margin-bottom:30px;
-}	
-
-#influence a{
-	display: inline-block;
-	padding:12px 30px;
-	border: 1px solid #c77e19;
-	color:#ffd36b;
-	text-transform: uppercase;
-	text-decoration: none;	
-	margin-bottom:70px;
-
+	line-height:65.79px;
+	text-align: right;
 }
 
+
+#influence p{
+	color: #ebdec2;
+	text-align:right;
+	font-size:14.688px;
+	font-weight: 400px;
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+	line-height:22.032px;
+	margin-top:20px
+}	
+
+a:hover {
+	background-color: #211510;
+	box-sizing:border-box;
+	color:#f7b10a;
+	cursor:pointer
+	font-family: Open Sans,Arial,Helvetica,sans-serif;
+	text-align: center;
+	line-height: 1.5;
+	font-weight: 400;
+	text-transform: uppercase;
+}
